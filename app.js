@@ -193,15 +193,19 @@
 // console.log(`${table} * 9 = ${table * 9}`);
 // console.log(`${table} * 10 = ${table * 10}`);
 
-// Q6  
+// Q6   check
+
+// let usefor = prompt("enter number")
 
 // let foren = 75;
 // let celi = 24;
 
-// let sumup = ( foren - 32) * 5 / 9;
+// let sumup = (usefor - 32) * 5 / 9;
 // alert(sumup + " " + "C");
 
-// let sumup2 =(celi * 9 / 5) +32
+// let usecel = prompt("enter number")
+
+// let sumup2 =(usecel * 9 / 5) +32
 // alert(sumup2 + " "+ "F");
 
 // Q7
@@ -282,4 +286,8 @@
 // // let sumall = maxage * estimate  
 // let sumall= 15*65
 // alert(sumall)
+
+
+
+
 
