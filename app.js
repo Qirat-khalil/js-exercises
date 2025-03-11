@@ -193,7 +193,7 @@
 // console.log(`${table} * 9 = ${table * 9}`);
 // console.log(`${table} * 10 = ${table * 10}`);
 
-// Q6   check
+// Q6   
 
 // let usefor = prompt("enter number")
 
